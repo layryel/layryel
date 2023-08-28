@@ -26,4 +26,4 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=A68b72&size=35&center=true&v
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c9e60&height=120&section=footer" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9a9a9&height=120&section=footer" />
