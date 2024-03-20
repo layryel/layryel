@@ -1,5 +1,13 @@
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=A68b72&size=35&center=true&vCenter=true&width=1000&lines=Hello+Person,+My+name+is+Layara;I'm+17+years+old;I'm+from+Brazil;I+Study+Programation+n+Systems+Development;+I+love+desing+n+photograph!;+Be+Welcome+here!+:%29)](https://git.io/typing-svg)
+<div>
+   <h1 align="center">
+    Olá pessoa, Tudo bem? Eu sou a
+    <a href="">Layara Miranda S2</a>
+  </h1>
+  
+  <p align="center">
+    Sou estudante de Desenvolvimentos de Sistemas na ETEC da Zona Leste, sou apaixonada por pedras, fotografia e desing. Seja bem-vindo aos meus projetos!
+  </p>
+</div>
 
 <div align="center">
   <img width="49%" height="195px"
