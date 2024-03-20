@@ -1,7 +1,7 @@
 <div>
    <h1 align="center">
     Olá pessoa, Tudo bem? Eu sou a
-    <a href="https://github.com/layryel">Layara Miranda S2</a>
+    <a href="https://github.com/layryel" color="#899DDA">Layara Miranda S2</a>
   </h1>
   
   <p align="center">
