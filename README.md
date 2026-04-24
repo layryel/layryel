@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Tenho formação técnica em Desenvolvimentos de Sistemas pela ETEC da Zona Leste e atualmente sou estudante de jornalismo pela Universidade Nove de Julho. Tenho dezoito anos, sou apaixonada por pedras, fotografia e desing. Seja bem-vindo aos meus projetos!
+    Tenho formação técnica em Desenvolvimentos de Sistemas pela ETEC da Zona Leste e atualmente sou estudante de jornalismo pela Universidade Nove de Julho. Tenho dezenove anos, sou apaixonada por pedras, fotografia e desing. Seja bem-vindo aos meus projetos!
   </p>
 </div>
 
