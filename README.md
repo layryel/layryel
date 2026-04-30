@@ -1,4 +1,7 @@
+<link align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F3011&background=FFFFFF&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Layara+Miranda!;Jornalismo+com+atua%C3%A7%C3%A3o+em+Comunica%C3%A7%C3%A3o+e+Tecnologia)](https://git.io/typing-svg)
+<link>
+
 <p align="center">
   <a href="#-português">🇧🇷 Português</a> • 
   <a href="#-english">🇺🇸 English</a>
@@ -24,7 +27,7 @@
 
 ### 📰 Habilidades em Comunicação
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Redação%20Jornalística-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Comunicação%20Institucional-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Produção%20de%20Conteúdo-000000?style=for-the-badge">
@@ -37,7 +40,7 @@
 
 ### 💻 Tecnologias
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,figma,opencv,git,github"/>
 </p>
 
@@ -68,7 +71,7 @@
 
 ### 📰 Communication Skills
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Journalistic%20Writing-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Institutional%20Communication-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Content%20Production-000000?style=for-the-badge">
@@ -81,7 +84,7 @@
 
 ### 💻 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,figma,opencv,git,github"/>
 </p>
 
