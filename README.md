@@ -1,28 +1,94 @@
-<div>
-   <h1 align="center">
-    Olá pessoa, Tudo bem? Eu sou a
-    <a href="https://github.com/layryel" color="#899DDA">Layara Miranda S2</a>
-  </h1>
-  
-  <p align="center">
-    Tenho formação técnica em Desenvolvimentos de Sistemas pela ETEC da Zona Leste e atualmente sou estudante de jornalismo pela Universidade Nove de Julho. Tenho dezenove anos, sou apaixonada por pedras, fotografia e desing. Seja bem-vindo aos meus projetos!
-  </p>
-</div>
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Mariana.;Tenho+19+anos+e+sou+do+Brasil.;Seja+bem-vindx+ao+meu+GitHub!](https://readme-typing-svg.herokuapp.com/demo/?color=4F3011&background=FFFFFF&lines=Ol%C3%A1%2C+eu+sou+a+Layara+Miranda!;Jornalismo+com+atua%C3%A7%C3%A3o+em+Comunica%C3%A7%C3%A3o+e+Tecnologia))](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="49%" height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=layryel&show_icons=true&count_private=true&hide_border=true&title_color=836fff&icon_color=708090&text_color=f5deb3&bg_color=000000"
-    alt="Layryel github stats" />
-  <img width="41%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=layryel&layout=compact&hide_border=true&title_color=836fff&text_color=708090&bg_color=000000" />
+<p align="center">
+  <a href="#-português">🇧🇷 Português</a> • 
+  <a href="#-english">🇺🇸 English</a>
+</p>
 
-  <div align="center">
-    <br>
-    <p align="centre"><b>Visitors Count</b></p>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{layryel}/count.svg" /></p>
-    <br>
-  </div>
+---
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+## 🇧🇷 Português
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2735B7&height=120&section=footer" />
+🎓 Estudante de Jornalismo com formação técnica em Desenvolvimento de Sistemas  
+💼 Atuação em comunicação institucional, produção jornalística e conteúdo digital  
+📍 São Paulo, Brasil  
+
+---
+
+### 🏆 Destaques
+
+- 🎤 Apresentação no Congresso ENGETEC  
+- 📰 Publicações na Revista Izunome (IMMB)  
+- 🎓 Desenvolvimento de TCC voltado à área de comunicação e/ou tecnologia  
+
+---
+
+### 📰 Habilidades em Comunicação
+
+<p>
+  <img src="https://img.shields.io/badge/Redação%20Jornalística-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Comunicação%20Institucional-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Produção%20de%20Conteúdo-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cobertura%20de%20Eventos-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Roteirização-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Edição%20de%20Texto-000000?style=for-the-badge">
+</p>
+
+---
+
+### 💻 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,figma,opencv,git,github"/>
+</p>
+
+---
+
+### 📫 Contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
+
+---
+
+## 🇺🇸 English
+
+🎓 Journalism student with a technical background in Systems Development  
+💼 Experience in institutional communication, journalistic production, and digital content  
+📍 São Paulo, Brazil  
+
+---
+
+### 🏆 Highlights
+
+- 🎤 Speaker at ENGETEC Conference  
+- 📰 Publications in Izunome Magazine (IMMB)  
+- 🎓 Final Project (TCC) focused on communication and/or technology  
+
+---
+
+### 📰 Communication Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Journalistic%20Writing-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Institutional%20Communication-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Content%20Production-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Event%20Coverage-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scriptwriting-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Text%20Editing-000000?style=for-the-badge">
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,figma,opencv,git,github"/>
+</p>
+
+---
+
+### 📫 Contact
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
