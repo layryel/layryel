@@ -1,7 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&duration=6000&pause=2500&color=4F3011&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Layara+Miranda!;Jornalismo+com+atua%C3%A7%C3%A3o+em+Comunica%C3%A7%C3%A3o+e+Tecnologia)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c3c0c&height=120&section=header&text=Bem-vindo!&fontColor=fff0f6&fontSize=40&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=6000&pause=2500&color=4F3011&background=FFFFFF&center=true&vCenter=true&width=1500&lines=Ol%C3%A1%2C+eu+sou+a+Layara+Miranda!;Jornalismo+com+atua%C3%A7%C3%A3o+em+Comunica%C3%A7%C3%A3o+e+Tecnologia)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="#-português">🇧🇷 Português</a> • 
+  <a href="#-português">🇧🇷 Português</a>
   <a href="#-english">🇺🇸 English</a>
 </p>
 
@@ -36,7 +38,15 @@
 ### 💻 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,php,github,figma,kotlin"/>
+    <img src="https://skillicons.dev/icons?i=javascript,java,mysql,laravel,react"/>
+</p>
+
+### Status do GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=layryel&theme=react&show_icons=true&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layryel&theme=react&layout=compact" >
 </p>
 
 
@@ -76,7 +86,15 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github"/>
+ <img src="https://skillicons.dev/icons?i=bootstrap,html,css,php,github,figma,kotlin"/>
+ <img src="https://skillicons.dev/icons?i=javascript,java,mysql,laravel,react"/>
+</p>
+
+### GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=layryel&theme=react&show_icons=true&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layryel&theme=react&layout=compact" >
 </p>
 
 
