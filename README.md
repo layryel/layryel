@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F3011&background=FFFFFF&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Layara+Miranda!;Jornalismo+com+atua%C3%A7%C3%A3o+em+Comunica%C3%A7%C3%A3o+e+Tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&duration=6000&pause=2500&color=4F3011&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Layara+Miranda!;Jornalismo+com+atua%C3%A7%C3%A3o+em+Comunica%C3%A7%C3%A3o+e+Tecnologia)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="#-português">🇧🇷 Português</a> • 
