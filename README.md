@@ -13,17 +13,15 @@
 💼 Atuação em comunicação institucional, produção jornalística e conteúdo digital  
 📍 São Paulo, Brasil  
 
----
 
-### 🏆 Destaques
+# 🏆 Destaques
 
 - 🎤 Apresentação no Congresso ENGETEC  
 - 📰 Publicações na Revista Izunome (IMMB)  
 - 🎓 Desenvolvimento de TCC voltado à área de comunicação e/ou tecnologia  
 
----
 
-### 📰 Habilidades em Comunicação
+# 📰 Habilidades em Comunicação
 
 <p align="center">
   <img src="https://img.shields.io/badge/Redação%20Jornalística-000000?style=for-the-badge">
@@ -34,17 +32,15 @@
   <img src="https://img.shields.io/badge/Edição%20de%20Texto-000000?style=for-the-badge">
 </p>
 
----
 
-### 💻 Tecnologias
+# 💻 Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github"/>
 </p>
 
----
 
-### 📫 Contato
+# 📫 Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
@@ -57,17 +53,15 @@
 💼 Experience in institutional communication, journalistic production, and digital content  
 📍 São Paulo, Brazil  
 
----
 
-### 🏆 Highlights
+# 🏆 Highlights
 
 - 🎤 Speaker at ENGETEC Conference  
 - 📰 Publications in Izunome Magazine (IMMB)  
 - 🎓 Final Project (TCC) focused on communication and/or technology  
 
----
 
-### 📰 Communication Skills
+# 📰 Communication Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Journalistic%20Writing-000000?style=for-the-badge">
@@ -78,17 +72,15 @@
   <img src="https://img.shields.io/badge/Text%20Editing-000000?style=for-the-badge">
 </p>
 
----
 
-### 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github"/>
 </p>
 
----
 
-### 📫 Contact
+# 📫 Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
