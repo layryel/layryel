@@ -42,13 +42,6 @@
     <img src="https://skillicons.dev/icons?i=javascript,java,mysql,laravel,react"/>
 </p>
 
-### Status do GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=layryel&theme=react&show_icons=true&include_all_commits=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layryel&theme=react&layout=compact" >
-</p>
-
 
 ### 📫 Contato
 
