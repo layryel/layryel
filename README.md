@@ -1,5 +1,4 @@
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Mariana.;Tenho+19+anos+e+sou+do+Brasil.;Seja+bem-vindx+ao+meu+GitHub!](https://readme-typing-svg.herokuapp.com/demo/?color=4F3011&background=FFFFFF&lines=Ol%C3%A1%2C+eu+sou+a+Layara+Miranda!;Jornalismo+com+atua%C3%A7%C3%A3o+em+Comunica%C3%A7%C3%A3o+e+Tecnologia))](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F3011&background=FFFFFF&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Layara+Miranda!;Jornalismo+com+atua%C3%A7%C3%A3o+em+Comunica%C3%A7%C3%A3o+e+Tecnologia)](https://git.io/typing-svg)
 <p align="center">
   <a href="#-português">🇧🇷 Português</a> • 
   <a href="#-english">🇺🇸 English</a>
