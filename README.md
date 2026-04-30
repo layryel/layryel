@@ -39,7 +39,7 @@
 ### 💻 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,figma,git,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,figma,git,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github"/>
 </p>
 
 ---
