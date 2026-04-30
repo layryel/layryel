@@ -39,8 +39,8 @@
 ### 💻 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,figma"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="30"/>&nbsp; 
+  <img src="https://skillicons.dev/icons?i=html,css,js,node.js,figma"/>
+  <img src="https://skillicons.dev/icons?i=opencv"/>
   <img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
 
