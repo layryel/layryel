@@ -45,9 +45,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=layryel&theme=tokyonight&hide_border=true"/>
-</p>
+[![Layryel GitHub stats](https://github-readme-stats.vercel.app/api?username=layryel)](https://github.com/layryel/github-readme-stats)
 
 ---
 
