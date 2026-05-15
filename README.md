@@ -4,17 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=2000&color=4F3011&center=true&vCenter=true&width=800&lines=Jornalismo+%26+Tecnologia;Comunicação+Institucional;Desenvolvimento+e+Conteúdo+Digital" />
 </p>
 
-
-<p align="center"> 
-  <a href="#-português">🇧🇷 Português</a>
-  <a href="#-english">🇺🇸 English</a> 
-</p> 
-
 --- 
 
-# 🇧🇷 Português
-
-### ✨ Sobre mim
+# ✨ Sobre mim
 
 🎓 Estudante de Jornalismo com formação técnica em Desenvolvimento de Sistemas  
 💼 Atuação em comunicação institucional, produção jornalística e conteúdo digital  
@@ -46,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=spotify&show_offline=false&background_color=1a120d&interchange=false&bar_color=6c3c0c&bar_color_cover=false&border_radius=12"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=default&show_offline=false&background_color=1a120d&interchange=false&profanity=false&hide_remaster=false&bar_color=6c3c0c&bar_color_cover=false&border_radius=12"/>
   </a>
 </p>
 
@@ -57,58 +49,6 @@
 Muito obrigada por visitar meu GitHub! Caso queira se conectar comigo, estarei disponível através dos canais abaixo. 
 
 **Layara Miranda** 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
-
----
-
-# 🇺🇸 English
-
-### ✨ About Me
-
-🎓 Journalism student with a technical background in Systems Development  
-💼 Experience in institutional communication, journalistic production, and digital content  
-📍 São Paulo, Brazil  
-
-- 🎤 Speaker at the ENGETEC Conference  
-- 📰 Publications in Izunome Magazine (IMMB)  
-- 🎓 Final Project (TCC) focused on communication and technology  
-
-### 💻 Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,kotlin,react,laravel,mysql,github,figma" />
-</p>
-
-### 📰 Communication & Content
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Journalistic_Writing-3b2410?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Institutional_Communication-3b2410?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Content_Production-3b2410?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Scriptwriting-3b2410?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Text_Editing-3b2410?style=flat-square"/>
-</p>
-
----
-
-### 🎧 Spotify
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=spotify&show_offline=false&background_color=1a120d&interchange=false&bar_color=6c3c0c&bar_color_cover=false&border_radius=12"/>
-  </a>
-</p>
-
----
-
-### 📫 Contact
-
-Thank you for visiting my GitHub profile!  
-If you'd like to connect with me, feel free to reach out through the channels below.
-
-**Layara Miranda**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
