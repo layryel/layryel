@@ -51,10 +51,7 @@ OUT OF ORDER.
 
 ### 🎧 Spotify
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6c3c0c&bar_color_cover=false"/>
-
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
