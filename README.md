@@ -42,17 +42,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-OUT OF ORDER.
-
----
-
 ### 🎧 Spotify
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false"/>
   </a>
 </p>
 
@@ -63,6 +57,58 @@ OUT OF ORDER.
 Muito obrigada por visitar meu GitHub! Caso queira se conectar comigo, estarei disponível através dos canais abaixo. 
 
 **Layara Miranda** 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
+
+---
+
+# 🇺🇸 English
+
+### ✨ About Me
+
+🎓 Journalism student with a technical background in Systems Development  
+💼 Experience in institutional communication, journalistic production, and digital content  
+📍 São Paulo, Brazil  
+
+- 🎤 Speaker at the ENGETEC Conference  
+- 📰 Publications in Izunome Magazine (IMMB)  
+- 🎓 Final Project (TCC) focused on communication and technology  
+
+### 💻 Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,kotlin,react,laravel,mysql,github,figma" />
+</p>
+
+### 📰 Communication & Content
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Journalistic_Writing-3b2410?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Institutional_Communication-3b2410?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Content_Production-3b2410?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scriptwriting-3b2410?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Text_Editing-3b2410?style=flat-square"/>
+</p>
+
+---
+
+### 🎧 Spotify
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false"/>
+  </a>
+</p>
+
+---
+
+### 📫 Contact
+
+Thank you for visiting my GitHub profile!  
+If you'd like to connect with me, feel free to reach out through the channels below.
+
+**Layara Miranda**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
