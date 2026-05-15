@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=2000&color=4F3011&center=true&vCenter=true&width=800&lines=Jornalismo+%26+Tecnologia;Comunicação+Institucional;Desenvolvimento+e+Conteúdo+Digital" />
 </p>
 
----
 
 <p align="center"> 
   <a href="#-português">🇧🇷 Português</a>
@@ -51,7 +50,11 @@ OUT OF ORDER.
 
 ### 🎧 Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false"/>
+  </a>
+</p>
 
 ---
 
