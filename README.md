@@ -54,7 +54,6 @@ Muito obrigada por visitar meu GitHub! Caso queira se conectar comigo, estarei d
 <p align="center">
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?) 
-  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6c3c0c&height=80&section=footer" width="100%"/>
