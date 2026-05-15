@@ -49,12 +49,11 @@ OUT OF ORDER.
 
 ---
 
-## 🎧 Spotify
+### 🎧 Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5?si=1e8082aed2d542dc&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?Uid=pspdvyyq6lpz4k6qjigpy0ee5?si=1e8082aed2d542dc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6c3c0c&bar_color_cover=false"/>
-  </a>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6c3c0c&bar_color_cover=false"/>
+
 </p>
 
 ---
