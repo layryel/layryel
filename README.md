@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=spotify&show_offline=false&background_color=1a120d&interchange=false&bar_color=6c3c0c&bar_color_cover=false&border_radius=12"/>
   </a>
 </p>
 
@@ -97,7 +97,7 @@ Muito obrigada por visitar meu GitHub! Caso queira se conectar comigo, estarei d
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pspdvyyq6lpz4k6qjigpy0ee5&cover_image=true&theme=spotify&show_offline=false&background_color=1a120d&interchange=false&bar_color=6c3c0c&bar_color_cover=false&border_radius=12"/>
   </a>
 </p>
 
