@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Stats
 
-[![Layryel GitHub stats](https://github-readme-stats.vercel.app/api?username=layryel)](https://github.com/layryel/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=layryel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
