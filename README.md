@@ -6,7 +6,16 @@
 
 ---
 
-## ✨ Sobre mim
+<p align="center"> 
+  <a href="#-português">🇧🇷 Português</a>
+  <a href="#-english">🇺🇸 English</a> 
+</p> 
+
+--- 
+
+# 🇧🇷 Português
+
+### ✨ Sobre mim
 
 🎓 Estudante de Jornalismo com formação técnica em Desenvolvimento de Sistemas  
 💼 Atuação em comunicação institucional, produção jornalística e conteúdo digital  
@@ -16,17 +25,13 @@
 - 📰 Publicações na Revista Izunome (IMMB)  
 - 🎓 TCC voltado à comunicação e tecnologia  
 
----
-
-## 💻 Tecnologias
+### 💻 Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,kotlin,react,laravel,mysql,github,figma" />
 </p>
 
----
-
-## 📰 Comunicação & Conteúdo
+### 📰 Comunicação & Conteúdo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Redação_Jornalística-3b2410?style=flat-square&logoColor=white"/>
@@ -38,29 +43,21 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=layryel&show_icons=true&theme=react&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layryel&layout=compact&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=layryel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layryel&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/layara-miranda-405664299/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:layaramiranda61@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Muito obrigada por visitar meu GitHub! Caso queira se conectar comigo, estarei disponível através dos canais abaixo. 
 
----
+**Layara Miranda** 
 
-<p align="center">
-  <sub>Journalism • Communication • Technology</sub>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
