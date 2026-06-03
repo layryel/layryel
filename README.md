@@ -51,7 +51,7 @@
     <!-- Profile Views -->
     <img height="500" src="https://komarev.com/ghpvc/?username=layryel&color=3b2410" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=layryel&bg_color=6c3c0c&color=3b2410&line=3b2410&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=layryel&bg_color=0d1117&color=3b2410&line=6c3c0c&point=ffffff&hide_border=true"/>
 </p>
   
 ---
