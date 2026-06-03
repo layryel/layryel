@@ -43,6 +43,10 @@
   </a>
 </p>
 
+###   Visualizações
+<img height="500" src="https://komarev.com/ghpvc/?username=layryel&color=3b2410" />
+
+
 ---
 
 ### 📫 Contato
